@@ -52,6 +52,12 @@ npm install
 npm start
 ```
 
+### Testing
+
+```bash
+npm test
+```
+
 ### Build Release
 
 ```bash
