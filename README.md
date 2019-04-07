@@ -28,9 +28,10 @@ A detailed description of the project. This is a simple readme template to get y
 
 A few things that you can do with {project_name}:
 
-- Feature one
-- Feature two
-- Feature three
+- Simple and easy to use
+- Clean design
+- To the point
+- Customizable
 
 ## Development
 
