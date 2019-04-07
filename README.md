@@ -5,7 +5,12 @@
 <img src="screenshot.png">
 
 ![](https://flat.badgen.net/github/status/takebo/git-readme-template)
-![](https://flat.badgen.net/github/last-commit/takebo/git-readme-template)
+![](https://flat.badgen.net/github/commits/takebo/git-readme-template)
+![](https://flat.badgen.net/github/last-commit/takebo/git-readme-template?color=cyan)
+![](https://flat.badgen.net/github/issues/takebo/git-readme-template)
+![](https://flat.badgen.net/github/open-issues/takebo/git-readme-template?color=red)
+![](https://flat.badgen.net/github/stars/takebo/git-readme-template?color=yellow)
+![](https://flat.badgen.net/github/forks/takebo/git-readme-template?color=purple)
 ![](https://flat.badgen.net/github/license/takebo/git-readme-template)
 
 A detailed description of the project. This is a simple readme template to get you started in your projects, you can modify and use it according to your needs.
