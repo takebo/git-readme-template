@@ -5,6 +5,7 @@
 <img src="screenshot.png">
 
 ![](https://flat.badgen.net/github/status/takebo/git-readme-template)
+![](https://flat.badgen.net/github/release/takebo/git-readme-template)
 ![](https://flat.badgen.net/github/commits/takebo/git-readme-template)
 ![](https://flat.badgen.net/github/last-commit/takebo/git-readme-template?color=cyan)
 ![](https://flat.badgen.net/github/issues/takebo/git-readme-template)
