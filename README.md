@@ -2,7 +2,7 @@
 
 ### A simple description of the project. A simple git project README.md template.
 
-<img src="screenshot.png">
+<a href="http://" target="_blank"><img src="screenshot.png"></a>
 
 ![](https://flat.badgen.net/github/status/takebo/git-readme-template)
 ![](https://flat.badgen.net/github/release/takebo/git-readme-template)
@@ -32,6 +32,11 @@ A few things that you can do with {project_name}:
 - Clean design
 - To the point
 - Customizable
+
+## Design & Prototype
+
+- [Design](http://)
+- [Prototype](http://)
 
 ## Development
 
